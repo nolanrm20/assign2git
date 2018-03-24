@@ -1,2 +1,2 @@
 # assign2git
-<b>Nolan Miller</b>
+<h1>Nolan Miller</h1>
